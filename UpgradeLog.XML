@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PokerEngine">
+</Property><Property Name="Solution File" Value="C:\hoki\PokerEngine\PokerEngine.sln">
+</Property><Property Name="User Options File" Value="C:\hoki\PokerEngine\PokerEngine.suo">
+</Property><Property Name="Date" Value="Monday, February 16, 2009">
+</Property><Property Name="Time" Value="17:24 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PokerEngine.sln" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PokerEngine.suo" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine.suo">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\PokerEngine.csproj" Description="Project file successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\PokerEngine.csproj">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\Action.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\Action.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\BetManager.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\BetManager.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\BettingStructure.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\BettingStructure.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\CircularList.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\CircularList.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\HandEngine.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\HandEngine.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\HandHistory.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\HandHistory.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\IBetManager.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\IBetManager.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\IPlayer.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\IPlayer.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\PlayerManager.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\PlayerManager.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\Pot.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\Pot.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\PotManager.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\PotManager.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\Round.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\Round.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\Seat.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngine\Seat.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\PokerEngine.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PokerEngine" Source="PokerEngine\PokerEngine.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PokerEngineTest" Source="PokerEngineTest\PokerEngineTest.csproj" Description="Project file successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngineTest\PokerEngineTest.csproj">
+</Event><Event ErrorLevel="0" Project="PokerEngineTest" Source="PokerEngineTest\BetManagerTest.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngineTest\BetManagerTest.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngineTest" Source="PokerEngineTest\FastPotManagerTest.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngineTest\FastPotManagerTest.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngineTest" Source="PokerEngineTest\HandEngineTest.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngineTest\HandEngineTest.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngineTest" Source="PokerEngineTest\PotManagerTest.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngineTest\PotManagerTest.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngineTest" Source="PokerEngineTest\Program.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngineTest\Program.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngineTest" Source="PokerEngineTest\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngineTest\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngineTest" Source="PokerEngineTest\SequencePlayer.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\PokerEngineTest\SequencePlayer.cs">
+</Event><Event ErrorLevel="0" Project="PokerEngineTest" Source="PokerEngineTest\PokerEngineTest.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PokerEngineTest" Source="PokerEngineTest\PokerEngineTest.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\FastPokerEngine.csproj" Description="Project file successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\FastPokerEngine.csproj">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\Action.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\Action.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\BetManager.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\BetManager.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\BettingStructure.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\BettingStructure.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\CircularList.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\CircularList.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\HandAnalysis.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\HandAnalysis.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\HandEngine.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\HandEngine.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\HandHistory.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\HandHistory.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\IPlayer.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\IPlayer.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\Pot.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\Pot.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\PotManager.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\PotManager.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\Round.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\Round.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\Seat.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\Seat.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\TournamentHandHistory.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\TournamentHandHistory.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\Winner.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\FastPokerEngine\Winner.cs">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\FastPokerEngine.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FastPokerEngine" Source="FastPokerEngine\FastPokerEngine.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NeuroEvolutionSimulation" Source="NeuroEvolutionSimulation\NeuroEvolutionSimulation.csproj" Description="Project file successfully backed up as C:\hoki\PokerEngine\Backup\NeuroEvolutionSimulation\NeuroEvolutionSimulation.csproj">
+</Event><Event ErrorLevel="0" Project="NeuroEvolutionSimulation" Source="NeuroEvolutionSimulation\Evaluators\PokerPopulationEvaluator.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\NeuroEvolutionSimulation\Evaluators\PokerPopulationEvaluator.cs">
+</Event><Event ErrorLevel="0" Project="NeuroEvolutionSimulation" Source="NeuroEvolutionSimulation\Experiments\LimitExperiment.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\NeuroEvolutionSimulation\Experiments\LimitExperiment.cs">
+</Event><Event ErrorLevel="0" Project="NeuroEvolutionSimulation" Source="NeuroEvolutionSimulation\INetworkInputGenerator.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\NeuroEvolutionSimulation\INetworkInputGenerator.cs">
+</Event><Event ErrorLevel="0" Project="NeuroEvolutionSimulation" Source="NeuroEvolutionSimulation\INetworkOutputInterpreter.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\NeuroEvolutionSimulation\INetworkOutputInterpreter.cs">
+</Event><Event ErrorLevel="0" Project="NeuroEvolutionSimulation" Source="NeuroEvolutionSimulation\LimitInputSignalGenerator.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\NeuroEvolutionSimulation\LimitInputSignalGenerator.cs">
+</Event><Event ErrorLevel="0" Project="NeuroEvolutionSimulation" Source="NeuroEvolutionSimulation\LimitOutputInterpreter.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\NeuroEvolutionSimulation\LimitOutputInterpreter.cs">
+</Event><Event ErrorLevel="0" Project="NeuroEvolutionSimulation" Source="NeuroEvolutionSimulation\NeuralNetworkPlayer.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\NeuroEvolutionSimulation\NeuralNetworkPlayer.cs">
+</Event><Event ErrorLevel="0" Project="NeuroEvolutionSimulation" Source="NeuroEvolutionSimulation\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\NeuroEvolutionSimulation\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NeuroEvolutionSimulation" Source="NeuroEvolutionSimulation\Simulation.cs" Description="File successfully backed up as C:\hoki\PokerEngine\Backup\NeuroEvolutionSimulation\Simulation.cs">
+</Event><Event ErrorLevel="0" Project="NeuroEvolutionSimulation" Source="NeuroEvolutionSimulation\NeuroEvolutionSimulation.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NeuroEvolutionSimulation" Source="NeuroEvolutionSimulation\NeuroEvolutionSimulation.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PokerEngine.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PokerEngine.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PokerEngine" Source="PokerEngine\PokerEngine.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="PokerEngineTest" Source="PokerEngineTest\PokerEngineTest.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="FastPokerEngine" Source="FastPokerEngine\FastPokerEngine.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="NeuroEvolutionSimulation" Source="NeuroEvolutionSimulation\NeuroEvolutionSimulation.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
